@@ -3,7 +3,6 @@
 - 🔭 Sou técnica em Análise e Desenvolvimento de Sistemas, formada pelo Senai;
 - 🌱 Atualmente estou cursando na UVV o curso de Análise e Desenvolvimento de Sistemas;
 
-Sou uma técnica em análise e desenvolvimento de sistemas e estou atualmente estou cursando na UVV o curso de ADS
 
 <div>
 <a href="https://github.com/KatssII">
