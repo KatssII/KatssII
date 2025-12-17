@@ -1,7 +1,7 @@
 ## Oiee! Sou a Mônica 👋
 
 - 🔭 Sou técnica em Análise e Desenvolvimento de Sistemas, formada pelo Senai;
-- 🌱 Atualmente estou cursando na UVV o curso de Análise e Desenvolvimento de Sistemas;
+- 🌱 Atualmente estou cursando na UVV o curso de Análise e Desenvolvimento de Sistemas, estou no 5º período;
 - 🖥️ Experiência com ferramentas da Microsoft e do Google
 
 
